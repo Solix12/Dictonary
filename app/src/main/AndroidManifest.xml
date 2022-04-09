@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.salikh.dictonariy">
+
+    <application
+        android:name=".app.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Dictonariy">
+        <activity
+            android:name=".activity.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SupportActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SettingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.InterestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.DeletesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.FavouriteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.EngToUzbActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.ChoseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.LogoActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

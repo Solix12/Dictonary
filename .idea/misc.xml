@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/backgraund_shape.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/buton_shape.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_add.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_baseline_info.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_baseline_interests_24.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_blue_bookmark_border.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_blue_ic.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_blue_icon.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_blue_info.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_blue_search.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_blue_settings.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_blue_support.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_ic.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_icon.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_icon_insta.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_icon_red.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_icon_telegram.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_menu.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_bookmark.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_bookmark_border.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_delete.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_email.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_info.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_instagram.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_interests.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_settings.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_support.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_red_telegram.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_round_bookmark_24.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_round_bookmark_border_24.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_round_contact_support_24.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_round_delete_24.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_round_menu_24.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_round_settings_24.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_bookmark.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_bookmark_border.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_delete.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_email.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_info.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_instagram.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_interests.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_settings.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/ic_yellow_support.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/item_shape.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/shape_blue.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/shape_red.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/drawable/shape_yellow.xml" value="0.2265" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_add_eng.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_add_uzb.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_chose.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_deletes.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_eng_to_uzb.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_favourite.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_interest.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_logo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_support.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_uzb_to_eng.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/activity_uzb_toeng.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/add_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/item_delete.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/item_employes_swipe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/item_fav_swipe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/item_interes_swipe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/item_word.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/item_word_eng.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/item_word_uzb.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/layout/layout_navigation_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Android lessons/Dictonariy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

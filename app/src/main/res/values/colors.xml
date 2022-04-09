@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#5cbeb4</color>
+    <color name="purple_500">#5cbeb4</color>
+    <color name="purple_700">#5cbeb4</color>
+    <color name="teal_200">#5cbeb4</color>
+    <color name="teal_700">#5cbeb4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //my colors
+
+
+    //blue
+    <color name="blue">#5cbeb4</color>
+    <color name="malochni">#eae5cc</color>
+    <color name="darkBlue">#428782</color>
+
+    //red
+    <color name="red">#F1948A</color>
+    <color name="darkRed">#CB4335</color>
+
+    //yellow
+    <color name="yellow">#F4D03F</color>
+    <color name="darkYellow">#D4AC0D</color>
+
+
+</resources>

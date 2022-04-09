@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dictonariy</string>
+    <string name="en_uz_dictionary">En-Uz Dictionary</string>
+    <string name="en_uz">En-Uz</string>
+    <string name="uz_en">Uz-En</string>
+    <string name="search_here">Search here ...</string>
+    <string name="yozing">yozing ...</string>
+    <string name="write">write ...</string>
+    <string name="add_new_word">Add new Word</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="connect_with_us">Connect with us</string>
+    <string name="with_email">With email</string>
+    <string name="telegram">Telegram</string>
+    <string name="instagram">Instagram</string>
+    <string name="select_color_for_main_theme">Select color for main theme</string>
+    <string name="delete">delete</string>
+    <string name="favourite">Favourite</string>
+</resources>
